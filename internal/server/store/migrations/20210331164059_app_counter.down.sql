@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS v3.app_counter;
